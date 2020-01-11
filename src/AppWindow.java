@@ -1,6 +1,6 @@
-import java . awt . * ;
-import java.awt . event . * ;
-import java . applet .*;
+import java.awt.* ;
+import java.awt.event.* ;
+import java.applet.*;
 import java.util.Random;
 
 public class AppWindow extends Frame {
